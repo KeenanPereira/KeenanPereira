@@ -11,9 +11,7 @@ and I'm currently dedicating time to understand linear regression algorithms.
 Here's what you can find in this repository:
 
 - **Notebooks**: Jupyter notebooks where I experiment with various datasets, implement  algorithms from scratch, and utilize popular libraries for practical implementations.
-
-- **Code Snippets**: This section includes code snippets and scripts related to data preprocessing, feature selection, model training, and evaluation.
-- 
+- **Code Snippets**: This section includes code snippets and scripts related to data preprocessing, feature selection, model training, and evaluation. 
 - **Visualizations**: Visual representations of data, model outputs, and insights gained during the learning process. A picture is worth a thousand words, after all!
 
 ## Linear Regression Algorithms
